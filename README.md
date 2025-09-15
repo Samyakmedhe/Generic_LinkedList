@@ -5,45 +5,29 @@ This repository is designed for learning, practicing, and comparing data structu
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)  
-- [Languages Covered](#languages-covered)  
-- [Project Structure](#project-structure)  
-- [Getting Started](#getting-started)  
-- [Usage](#usage)  
-- [Complexities](#complexities)  
-- [Contributing](#contributing)  
-- [License](#license)
-
----
-
 ## ✨ Features
 
-- Generic (type-independent) linked list implementation  
-- Supported operations:
-  - Insert at head, tail, or position  
-  - Delete by value / position  
+- ✅ Generic (type-independent) linked list implementation  
+- ✅ Implemented in **4 languages**: C, C++, Java, Python  
+- ✅ Covers both **procedural** and **object-oriented** styles  
+- ✅ Complete set of linked list operations:
+  - Insert at head, tail, or specific position  
+  - Delete by value or position  
   - Search for an element  
   - Count nodes  
-  - Find min/max/frequency  
+  - Find min, max, and frequency  
   - Reverse the list  
-  - Traverse/Display list  
-- Menu-driven programs in **C/C++/Java**  
-- OOP-based design in **C++/Java**  
-- Pythonic implementation with dynamic typing  
+  - Display all nodes  
+- ✅ Menu-driven programs in **C, C++, Java**  
+- ✅ Lightweight and Pythonic implementation  
 
 ---
 
 ## 💻 Languages Covered
 
-- **C** → Procedural, menu-driven, pointer-based implementation  
-- **C++** → Object-Oriented with classes, encapsulated `Node` and `LinkedList`  
-- **Java** → Full OOP with `Node` class, `LinkedList` interface, and menu-driven `main`  
-- **Python** → Clean dynamic implementation with minimal boilerplate  
+- **C** → Procedural, pointer-based, menu-driven  
+- **C++** → OOP with `Node` and `LinkedList` classes  
+- **Java** → OOP with interfaces, encapsulation, and menu-driven execution  
+- **Python** → Minimal and dynamic with built-in object features  
 
 ---
-
-
-
-
